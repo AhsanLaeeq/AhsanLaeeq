@@ -1,4 +1,4 @@
-# 🚀 Hi, I'm AHSANLaeeq! 👋  
+# 🚀 Hi, I'm AHSAN Laeeq! 👋  
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=F70000&width=435&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Open+Source+Contributor;Passionate+About+Web+Development" alt="Typing SVG" />
@@ -35,10 +35,19 @@
 
 ---
 
-## 🎡 Rotating Animation  
+## 🚀 Animations & Effects  
 
 <p align="center">
-  <img src="https://github.com/AhsanLaeeq/AhsanLaeeq/assets/your-image-id" width="200px">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&center=true&vCenter=true&width=500&height=60&lines=Ahsan+Laeeq;Full+Stack+Developer;React+Enthusiast;Open+Source+Contributor&color=FF0000" alt="Typing SVG" />
+</p>
+
+
+  <img src="https://github.com/AhsanLaeeq/AhsanLaeeq/blob/main/assets/name-animation.gif" width="400px">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" width="100%" />
 </p>
 
 ---
@@ -74,4 +83,6 @@
   </a>
 </p>  
 
-> **⭐ If you like my work, feel free to star the repositories!** 🚀  
+> **⭐ If you like my work, feel free to star the repositories!** 🚀
+>
+> 
