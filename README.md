@@ -84,5 +84,8 @@
 </p>  
 
 > **⭐ If you like my work, feel free to star the repositories!** 🚀
->
+
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/AhsanLaeeq/AhsanLaeeq/main/dist/github-snake.svg)
+
 
