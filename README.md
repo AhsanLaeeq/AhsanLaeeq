@@ -86,6 +86,10 @@
 > **⭐ If you like my work, feel free to star the repositories!** 🚀
 
 
-![snake gif](https://github.com/AhsanLaeeq/AhsanLaeeq/blob/output/github-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhsanLaeeq/AhsanLaeeq/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AhsanLaeeq/AhsanLaeeq/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/AhsanLaeeq/AhsanLaeeq/output/github-snake.svg" />
+</picture>
 
 
