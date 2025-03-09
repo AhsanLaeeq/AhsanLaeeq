@@ -2,7 +2,7 @@ name: Generate Snake Contribution Grid
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs every day at midnight
+    - cron: "0 0 * * *"  # Runs every day at midnight
   workflow_dispatch:
 
 jobs:
@@ -19,13 +19,13 @@ jobs:
           outputs: dist/snake.svg
 
       - name: Upload artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4  # ✅ Fixed deprecated version issue
         with:
           name: snake-animation
           path: dist/snake.svg
 
       - name: Push to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
+        uses: peaceiris/actions-gh-pages@v4  # ✅ Ensures deployment works correctly
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
